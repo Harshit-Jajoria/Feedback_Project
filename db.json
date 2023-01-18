@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": "9",
+      "text": "FROM JSON ->this is a good item loved it "
+    },
+    {
+      "id": 2,
+      "rating": "6",
+      "text": "FROM JSON ->this is a ok item loved it "
+    },
+    {
+      "id": 3,
+      "rating": "10",
+      "text": "FROM JSON ->this is a very good item loved it "
+    },
+    {
+      "id": 4,
+      "rating": "1",
+      "text": "FROM JSON ->this is a bad item not good"
+    },
+    {
+      "rating": "3",
+      "text": "FROM Post request-bad Product",
+      "id": 5
+    },
+    {
+      "text": "FROM Post request-from edit",
+      "rating": 4,
+      "id": 6
+    }
+  ]
+}
